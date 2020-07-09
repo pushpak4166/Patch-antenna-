@@ -1,0 +1,23 @@
+Altair Feko - ADAPTFEKO Version 2019.1-10 from 2019-02-13
+AFO file format: 3
+
+Global frequency band:
+ Start [Hz] =   2.300000000000e+09
+ Stop  [Hz] =   2.700000000000e+09
+Captions:
+V (sol=1,source=1)                                                                                   Coefficients 1
+I (sol=1,source=1)                                                                                   Coefficients 2
+Z (sol=1,source=1)                                                                                   Coefficients 3
+Y (sol=1,source=1)                                                                                   Coefficients 4
+PSOURCE (sol=1,source=1)                                                                             Coefficients 5
+PMISM (sol=1,source=1)                                                                               Coefficients 6
+S11                                                                                                  Coefficients 7
+Pactive (sol=1)                                                                                      Coefficients 8
+Ploss   (sol=1)                                                                                      Coefficients 9
+Antenna Efficiency (sol=1)                                                                           Coefficients 10
+Relative Phase of Received Signal (sol=1)                                                            Coefficients 11
+Frequency blocks:
+
+
+---------------------------------------------------------------
+
